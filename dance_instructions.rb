@@ -10,6 +10,7 @@ def base_footwork
 end 
 
 def skip_step(starting_foot)
+  puts "Briefly"
   puts "Lower left foot to the ground"
   puts "Bounce left foot back up slightly, kicking it a few inches back"
   puts "Left, Right, Left and Left"
