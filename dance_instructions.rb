@@ -20,6 +20,7 @@ def skip_step(starting_foot)
 end
 
 def bob_the_reins
+  puts "Do"
   puts "Bob it out"
   puts "Holding your arms out in front of you, straight and at chest level"
   puts "Cross your right wrist over your left and hold them together"
