@@ -4,7 +4,7 @@ def starting_stance
   puts "Plant legs far apart, bend knees slightly and keep posure loose"
 end
 def base_footwork
-  puts "Lift right food"
+  puts "Lift right foot"
   puts "Return right foot to the ground"
   puts "Finishing with a small skip-step backward"
 end 
