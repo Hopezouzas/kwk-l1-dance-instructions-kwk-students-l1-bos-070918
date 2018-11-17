@@ -46,7 +46,7 @@ def gangnam_style
   bob_the_reins
   skip_step("left foot")
   lasso
-  bust_move
+  bust_a_move
 end
   
  puts gangnam_style
